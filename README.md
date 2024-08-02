@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: He/Him/They/Them
+- 🔭 I’m currently working on learning Data Structures and Algorithms w Dr. Emily Hill.
+- 🌱 I’m currently learning continuous mathematics and command line
+- 👯 I’m looking to collaborate on technical interview practice
+- 🤔 I’m looking for help with finding informational interviews in my area
+- 💬 Ask me about parenting while studying
+- ⚡ Fun fact: I've lived in seven different US States
